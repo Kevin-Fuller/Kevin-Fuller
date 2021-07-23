@@ -1,5 +1,7 @@
 Hello! my name is Kevin Fuller and I am a full stack web developer studying informatics and computer science at Indiana University. 
 
+You can view my portfolio at: ____
+
 You can reach me at kgfuller@yahoo.com
 
 <!---

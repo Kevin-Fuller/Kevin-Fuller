@@ -2,7 +2,7 @@ Hello! my name is Kevin Fuller and I am a full stack web developer studying info
 
 You can view my portfolio at: kevinfuller.me
 
-You can reach me at kgfuller@yahoo.com
+You can reach me at http://kgfuller@yahoo.com
 
 <!---
 Kevin-Fuller/Kevin-Fuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

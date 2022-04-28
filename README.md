@@ -1,15 +1,15 @@
-![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/cardLarge2.jpg)
+[![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/cardLarge2.jpg)](kevinfuller.me)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/portfolioCard.png)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/linkedInCard.png)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/codepenCard.png)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/dribbbleCard.png)
 
 
-Hey 👋, I'm Kevin Fuller!
+##Hey 👋, I'm Kevin Fuller!
 
-I'm a full stack web developer who is finishing up my B.S with Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
+I'm a full stack web developer who is finishing up my B.S in Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
 
-You can view my portfolio at: kevinfuller.me
+
 
 You can reach me at http://kgfuller@yahoo.com
 

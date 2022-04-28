@@ -5,7 +5,7 @@
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/dribbbleCard.png)
 
 
-##Hey 👋, I'm Kevin Fuller!
+## Hey 👋, I'm Kevin Fuller!
 
 I'm a full stack web developer who is finishing up my B.S in Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
 

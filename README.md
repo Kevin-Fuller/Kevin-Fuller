@@ -3,7 +3,9 @@
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/linkedInCard.png)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/codepenCard.png)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/dribbbleCard.png)
-Hello! my name is Kevin Fuller and I am a full stack web developer studying informatics and computer science at Indiana University. 
+
+
+Hey 👋, I'm Kevin Fuller, I'm a full stack web developer who is finishing up my B.S with Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
 
 You can view my portfolio at: kevinfuller.me
 

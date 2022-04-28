@@ -1,5 +1,6 @@
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/cardLarge2.jpg)
 ![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/portfolioCard.png)
+![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/linkedInCard.png)
 Hello! my name is Kevin Fuller and I am a full stack web developer studying informatics and computer science at Indiana University. 
 
 You can view my portfolio at: kevinfuller.me

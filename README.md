@@ -1,8 +1,8 @@
 [![image](cardLarge2.jpg)](http://kevinfuller.me)
-![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/portfolioCard.png)
-![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/linkedInCard.png)
-![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/codepenCard.png)
-![image](https://github.com/Kevin-Fuller/Kevin-Fuller/blob/main/dribbbleCard.png)
+[![image](portfolioCard.png)](http://kevinfuller.me)
+[![image](linkedInCard.png)](https://www.linkedin.com/in/kevin-fuller-0a5b2b14a/)
+[![image](codepenCard.png)](https://codepen.io/kevin-fuller)
+[![image](dribbbleCard.png)](https://dribbble.com/kgfuller)
 
 
 ## Hey 👋, I'm Kevin Fuller!

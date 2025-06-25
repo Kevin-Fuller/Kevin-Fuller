@@ -9,11 +9,6 @@
 
 I'm a full stack web developer finishing my B.S in Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
 
-### Some facts about me:
-- I love UX design
-- I have been programming since I was 12
-- My favorite color is orange
-
 ### Contact:
 You can reach me at http://kgfuller@yahoo.com
 

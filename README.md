@@ -7,7 +7,7 @@
 
 ## Hey 👋, I'm Kevin Fuller!
 
-I'm a full stack web developer finishing my B.S in Informatics, Human-Computer Interaction, and Web Design at Indiana University! 
+I'm a senior fullstack developer.
 
 ### Contact:
 You can reach me at http://kgfuller@yahoo.com
